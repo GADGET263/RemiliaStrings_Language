@@ -25,10 +25,10 @@
     ]
   },
   "RemiliaMod:RLLDDJ": {
-    "NAME": "The cost of different dimension power",
+    "NAME": "Otherworldly power has its price..."
     "FLAVOR": "Unavoidable price.",
     "DESCRIPTIONS": [
-      "At the beginning of the round, give yourself a layer of weakness,tow strength, and the enemy gets a little strength."
+      "At the beginning of each round, give yourself 2 strength, 1 vulnerable, and gives your ennemies 1 strength."
     ]
   }
 }
